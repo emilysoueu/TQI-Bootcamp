@@ -10,4 +10,4 @@
 - Finish: 11/07
 
 ### Tech
-- ??
+- JavaScript
